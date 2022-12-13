@@ -48,9 +48,6 @@ I'm an **Undergrad Student🎓 [@Australian National University](https://www.anu
 ### 🚀 Quick Stats
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ManindraDeMel" alt="Manindra's Github Stats" />
-<img width="340" height="155" align="center" 
-     src="https://github-readme-stats.vercel.app/api?username=ManindraDeMel&layout=compact" />
-</p>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManindraDeMel)
