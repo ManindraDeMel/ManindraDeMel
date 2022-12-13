@@ -1,4 +1,4 @@
-<h1> <img src="assets/waveform.gif" height="30px">Welcome to my <a href="https://github.com/ManindraDeMel">profile</a> <img height="30px" src="assets/catjam.gif"></h1>
+<h1> <img src="assets/waveform.gif" height="30px">Hi I'm Manindra <img height="30px" src="assets/catjam.gif"></h1>
 </h1>
 
 ### 📬 Find me at
@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manindra.demel4@gmail.com)](manindra.demel4@gmail.com)
 
 
-### 🏖️ My Life...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### 🏖️ My Life... 
 I'm an **Undergrad Student🎓 [@Australian National University](https://www.anu.edu.au/)** pursuing Computer Science. I'm a **Tech Enthusiast 💻** but this isn't limited to just building software. I Love building computers, modifying cars 🚗 and Maths!! ♾️ <br/><br/>
 
 
