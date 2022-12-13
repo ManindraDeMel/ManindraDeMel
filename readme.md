@@ -34,16 +34,16 @@ I'm an **Undergrad Student🎓 [@Australian National University](https://www.anu
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 
 ### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
-
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png"></code>
+<code><img height="30" src="https://www.clipartmax.com/png/middle/279-2791029_python-icon-python-logo.png"></code>
+<code><img height="30" src="https://e7.pngegg.com/pngimages/759/987/png-clipart-php-computer-icons-web-development-logo-icon-text-trademark.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcixH8DuHU4wthKK7RT2B75rE2Qrv9uVz4IHEqG86oXrPxLyuU5aIr39OObwlD1TSs1io&usqp=CAU"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code> 
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/prolog-458170.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/APL_%28programming_language%29_logo.svg/1200px-APL_%28programming_language%29_logo.svg.png"></code>
 
 ### 🚀 Quick Stats
 <p align="center">
