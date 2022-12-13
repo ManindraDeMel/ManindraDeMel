@@ -19,7 +19,7 @@ I'm an **Undergrad Student🎓 [@Australian National University](https://www.anu
 
 - 🔭 I’m currently working at [Stomble](https://www.linkedin.com/company/stomble/?originalSubdomain=au) as a backend developer, and we're building something exciting... 😉
 - 🌱 I’m currently learning APL & Other Array oriented languages 🤓
-<img width="490" height="270" src="assets/haskell-line-comment-block.gif" align=right style="border-radius: 75px">
+<img width="490" height="270" src="assets/haskell-line-comment-block.gif" align=right style="float:right">
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
