@@ -1,4 +1,4 @@
-<h1> <img src="assets/waveform.gif" height="30px">Hi I'm Manindra <img height="30px" src="assets/catjam.gif"></h1>
+<h1>Hi I'm Manindra <img height="30px" src="assets/catjam.gif"></h1>
 </h1>
 
 ### 📬 Find me at
