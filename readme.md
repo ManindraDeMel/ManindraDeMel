@@ -43,7 +43,10 @@ I'm an **Undergrad Student🎓 [@Australian National University](https://www.anu
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code> 
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/prolog-458170.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/APL_%28programming_language%29_logo.svg/1200px-APL_%28programming_language%29_logo.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/APL_%28programming_language%29_logo.svg/1200px-APL_%28programming_language%29_logo.svg.png"></code> 
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code> 
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZccoVMr_3wsUQyCaVWV5joh5dz6_1o_M07rT88Vg&s"></code> 
+
 
 ### 🚀 Quick Stats
 <p align="center">
