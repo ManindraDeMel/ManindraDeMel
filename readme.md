@@ -49,7 +49,7 @@ I'm an **Undergrad Student🎓 [@Australian National University](https://www.anu
 ### 🚀 Quick Stats
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ManindraDeMel&count_private=true&show_icons=true&theme=dark" alt="Manindra's Github Stats" />
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ManindraDeMel)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManindraDeMel)
 
