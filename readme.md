@@ -48,8 +48,8 @@ I'm an **Undergrad Student🎓 [@Australian National University](https://www.anu
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ManindraDeMel&count_private=true&show_icons=true&theme=dark" alt="Manindra's Github Stats" />
-<img width="450" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManindraDeMel&theme=dark)" alt="Manindra's Github Stats" />
+<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ManindraDeMel&count_private=true&show_icons=true&theme=merko" alt="Manindra's Github Stats" />
+<img width="450" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManindraDeMel&theme=merko)" alt="Manindra's Github Stats" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManindraDeMel)
 
