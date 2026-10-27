@@ -10,7 +10,7 @@
 
 
 ### 🏖️ My Life... 
-I'm an **Undergrad Student🎓 [@Australian National University](https://www.anu.edu.au/)** pursuing Computer Science. I'm a **Tech Enthusiast 💻** but this isn't limited to just building software. I Love building computers, modifying cars 🚗 and Maths!! ♾️ <br/><br/>
+I'm an **Graduate Student🎓 [@Australian National University](https://www.anu.edu.au/)** pursuing Computer Science. I'm a **Tech Enthusiast 💻** but this isn't limited to just building software. I Love building computers, modifying cars 🚗 and Maths!! ♾️ <br/><br/>
 
 
 
