@@ -10,13 +10,13 @@
 
 
 ### 🏖️ My Life... 
-I'm an **Graduate Student🎓 [@Australian National University](https://www.anu.edu.au/)** pursuing Computer Science. I'm a **Tech Enthusiast 💻** but this isn't limited to just building software. I Love building computers, modifying cars 🚗 and Maths!! ♾️ <br/><br/>
+I'm a **Graduate Student🎓 [@Australian National University](https://www.anu.edu.au/)** pursuing Computer Science. I'm a **Tech Enthusiast 💻** but this isn't limited to just building software. I Love building computers, modifying cars 🚗 and Maths!! ♾️ <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
-- 🌱 I’m currently learning APL & Other Array oriented languages 🤓
+- 🌱 I’m love APL & Other Array oriented languages 🤓
 <img width="490" height="270" src="assets/haskell-line-comment-block.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
